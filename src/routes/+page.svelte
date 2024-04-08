@@ -8,12 +8,10 @@
 
 <div class="flex min-h-screen flex-col bg-[#1D183A] bg-[url('/bg.webp')] bg-cover bg-no-repeat">
 	<main class="mx-auto flex w-full max-w-screen-xl grow flex-col items-center px-6">
-		<h1
-			class="center mt-16 font-montserrat text-[60px] font-medium text-white md:mt-40 md:text-[100px]"
-		>
-			Artana
+		<h1 class="center mb-6 mt-16 md:mt-40">
+			<img src="/logo.png" alt="Artana" class="max-w-[280px] md:max-w-[402px]" />
 		</h1>
-		<h3 class="center mb-12 max-w-lg text-center font-montserrat text-xl text-[#fafafa]">
+		<h3 class="center mb-12 max-w-lg text-center font-montserrat text-[24px] text-[#fafafa]">
 			WHERE BLOCKCHAIN MEETS SOCIAL ART
 		</h3>
 		<a
@@ -24,7 +22,7 @@
 		<img
 			src="/phone.webp"
 			alt="Artana on a phone"
-			class="mx-auto mb-16 mt-32 block w-full max-w-[420px]"
+			class="mx-auto mb-16 mt-28 block w-full max-w-[489px]"
 		/>
 	</main>
 	<footer
