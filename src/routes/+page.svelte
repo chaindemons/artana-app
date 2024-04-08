@@ -15,14 +15,15 @@
 			WHERE BLOCKCHAIN MEETS SOCIAL ART
 		</h3>
 		<a
-			href="#"
+			href="/Artana.pdf"
+			download
 			class="rounded-full bg-gradient-to-r from-[#B82EFF] to-[#00B0A6] px-16 py-5 font-montserrat text-base font-bold text-white hover:from-[#00B0A6] hover:to-[#B82EFF]"
 			>Get Started Today</a
 		>
 		<img
 			src="/phone.webp"
 			alt="Artana on a phone"
-			class="mx-auto mb-16 mt-28 block w-full max-w-[489px]"
+			class="mx-auto mb-16 mt-28 block w-full max-w-[490px]"
 		/>
 	</main>
 	<footer
